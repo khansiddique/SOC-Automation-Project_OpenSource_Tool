@@ -11,6 +11,8 @@ Credit Goes to:  Use the link: https://m.do.co/c/e2ce5a05f701 <- To get a free $
 
 Mimikatz https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919
 
+![SOC_Lab_Diagram](https://github.com/khansiddique/SOC-Automation-Project_OpenSource_Tool/assets/44813868/b4d26e5a-a912-4def-bd7a-043e1f86c261)
+
 
 # Reference:
 @MyDFIR - Youtube Channel
